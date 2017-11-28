@@ -15,7 +15,8 @@ library(magrittr)
 library(dplyr)
 #Manejo de JSON
 library(jsonlite)
-
+#
+library(tidyr)
 #Grafos
 library(igraph)
 
